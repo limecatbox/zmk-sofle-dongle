@@ -76,7 +76,7 @@
             >;
 
             sensor-bindings = <&scroll_encoder>;
-            display-name = "LAYER 0🐈🐱😸😹😻😼😽😾😿😺🙀";
+            display-name = "LAYER 0";
         };
 
         layer_1 {
