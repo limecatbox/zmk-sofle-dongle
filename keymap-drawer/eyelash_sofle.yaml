@@ -163,7 +163,7 @@ layers:
   - $$mdi:arrow-right-bold$$
   - {h: '3', s: '$$mdi:bluetooth-connect$$'}
   - RGB SPD
-  - EJECT
+  - PREVIOUS
   - KP NUMLOCK
   - KP 4
   - KP 5
