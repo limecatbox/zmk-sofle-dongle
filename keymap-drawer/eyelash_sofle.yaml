@@ -64,7 +64,7 @@ layers:
   - $$mdi:apple-keyboard-shift$$
   - {t: ;, s: ':'}
   - {t: '=', s: +}
-  - '~'
+  - '#'
   CAD:
   - {t: '$$mdi:transfer$$', type: trans}
   - F1
